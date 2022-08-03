@@ -29,12 +29,14 @@ namespace Ministry_of_Interior.controllor
             {
                 throw new ArgumentNullException("id");
             }
+
             var listId = new List<string>() { "212625917", "211837109" };
             var productData = listId.Where(l => l.Equals(id) == true).ToList();
             _rabitMQProducer.SendCitizens(productData);
             return productData;
 
         }
+
 
         // POST api/<ValuesController>
         [HttpPost]
