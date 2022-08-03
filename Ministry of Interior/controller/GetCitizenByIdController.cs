@@ -17,10 +17,17 @@ namespace Ministry_of_Interior.controllor
 
         // GET api/<ValuesController>/5
         [HttpGet("{id}")]
-        public string Get(int id)
+        public async Task<List<string>> GetcitizenById(string id)
         {
-            return "value";
+            if (id == null)
+            {
+                throw new ArgumentNullException("id");
+            }
+
+            var listId = new List<string>() { "212625917", "211837109" };
+            return listId.Where(l => l.Equals(id) == true).ToList();
         }
+
 
         // POST api/<ValuesController>
         [HttpPost]
