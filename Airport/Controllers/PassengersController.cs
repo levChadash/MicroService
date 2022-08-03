@@ -10,9 +10,9 @@ namespace Airport.Controllers
     {
         // GET: api/<PassengersController>
         [HttpGet]
-        public string GetAllPassengers()
+        public List<string> GetAllPassengers()
         {
-            return "Hi!! \n Here is the Airport server!! :)";
+            return new List<string>(){ "212625917","211837109"};
         }
 
         // GET api/<PassengersController>/5
