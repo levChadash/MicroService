@@ -1,7 +1,11 @@
+using RabbitMQ.Client;
+using RabbitMQ.Client.Events;
+using System.Text;
+//Here we specify the Rabbit MQ Server. we use rabbitmq docker image and use it
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();

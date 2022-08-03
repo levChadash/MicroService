@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Ministry_of_Health.RabitMQ;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
@@ -6,8 +7,13 @@ namespace Ministry_of_Interior.controllor
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class ValuesController : ControllerBase
+    public class CitizenController : ControllerBase
     {
+        private readonly IRabitMQProducer _rabitMQProducer;
+        public CitizenController(IRabitMQProducer IRabitMQProducer)
+        {
+            _rabitMQProducer = IRabitMQProducer;
+        }
         // GET: api/<ValuesController>
         [HttpGet]
         public IEnumerable<string> Get()
@@ -17,7 +23,7 @@ namespace Ministry_of_Interior.controllor
 
         // GET api/<ValuesController>/5
         [HttpGet("{id}")]
-        public async Task<List<string>> GetcitizenById(string id)
+        public async Task<List<string>> GetCitizenById(string id)
         {
             if (id == null)
             {
@@ -25,7 +31,10 @@ namespace Ministry_of_Interior.controllor
             }
 
             var listId = new List<string>() { "212625917", "211837109" };
-            return listId.Where(l => l.Equals(id) == true).ToList();
+            var productData = listId.Where(l => l.Equals(id) == true).ToList();
+            _rabitMQProducer.SendCitizens(productData);
+            return productData;
+
         }
 
 
