@@ -208,28 +208,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\01\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\cross river\\MicroService\\Ministry of Interior\\Ministry of Interior.csproj",
+      "projectUniqueName": "C:\\Users\\01\\crossRiver\\week_6\\micro-service\\Ministry of Interior\\Ministry of Interior.csproj",
       "projectName": "Ministry of Interior",
-      "projectPath": "C:\\Users\\user\\Desktop\\cross river\\MicroService\\Ministry of Interior\\Ministry of Interior.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\cross river\\MicroService\\Ministry of Interior\\obj\\",
+      "projectPath": "C:\\Users\\01\\crossRiver\\week_6\\micro-service\\Ministry of Interior\\Ministry of Interior.csproj",
+      "packagesPath": "C:\\Users\\01\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\01\\crossRiver\\week_6\\micro-service\\Ministry of Interior\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\01\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
