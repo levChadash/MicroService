@@ -1,0 +1,29 @@
+C:\Users\01\crossRiver\week_6\micro-service\Ministry of Health\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\01\crossRiver\week_6\micro-service\Ministry of Health\bin\Debug\net6.0\appsettings.json
+C:\Users\01\crossRiver\week_6\micro-service\Ministry of Health\bin\Debug\net6.0\Ministry of Health.exe
+C:\Users\01\crossRiver\week_6\micro-service\Ministry of Health\bin\Debug\net6.0\Ministry of Health.deps.json
+C:\Users\01\crossRiver\week_6\micro-service\Ministry of Health\bin\Debug\net6.0\Ministry of Health.runtimeconfig.json
+C:\Users\01\crossRiver\week_6\micro-service\Ministry of Health\bin\Debug\net6.0\Ministry of Health.dll
+C:\Users\01\crossRiver\week_6\micro-service\Ministry of Health\bin\Debug\net6.0\Ministry of Health.pdb
+C:\Users\01\crossRiver\week_6\micro-service\Ministry of Health\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\01\crossRiver\week_6\micro-service\Ministry of Health\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\01\crossRiver\week_6\micro-service\Ministry of Health\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\01\crossRiver\week_6\micro-service\Ministry of Health\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\01\crossRiver\week_6\micro-service\Ministry of Health\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\01\crossRiver\week_6\micro-service\Ministry of Health\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\01\crossRiver\week_6\micro-service\Ministry of Health\obj\Debug\net6.0\Ministry of Health.csproj.AssemblyReference.cache
+C:\Users\01\crossRiver\week_6\micro-service\Ministry of Health\obj\Debug\net6.0\Ministry of Health.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\01\crossRiver\week_6\micro-service\Ministry of Health\obj\Debug\net6.0\Ministry of Health.AssemblyInfoInputs.cache
+C:\Users\01\crossRiver\week_6\micro-service\Ministry of Health\obj\Debug\net6.0\Ministry of Health.AssemblyInfo.cs
+C:\Users\01\crossRiver\week_6\micro-service\Ministry of Health\obj\Debug\net6.0\Ministry of Health.csproj.CoreCompileInputs.cache
+C:\Users\01\crossRiver\week_6\micro-service\Ministry of Health\obj\Debug\net6.0\Ministry of Health.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\01\crossRiver\week_6\micro-service\Ministry of Health\obj\Debug\net6.0\Ministry of Health.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\01\crossRiver\week_6\micro-service\Ministry of Health\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\01\crossRiver\week_6\micro-service\Ministry of Health\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\01\crossRiver\week_6\micro-service\Ministry of Health\obj\Debug\net6.0\scopedcss\bundle\Ministry of Health.styles.css
+C:\Users\01\crossRiver\week_6\micro-service\Ministry of Health\obj\Debug\net6.0\Ministry of Health.csproj.CopyComplete
+C:\Users\01\crossRiver\week_6\micro-service\Ministry of Health\obj\Debug\net6.0\Ministry of Health.dll
+C:\Users\01\crossRiver\week_6\micro-service\Ministry of Health\obj\Debug\net6.0\refint\Ministry of Health.dll
+C:\Users\01\crossRiver\week_6\micro-service\Ministry of Health\obj\Debug\net6.0\Ministry of Health.pdb
+C:\Users\01\crossRiver\week_6\micro-service\Ministry of Health\obj\Debug\net6.0\Ministry of Health.genruntimeconfig.cache
+C:\Users\01\crossRiver\week_6\micro-service\Ministry of Health\obj\Debug\net6.0\ref\Ministry of Health.dll
